@@ -21,4 +21,4 @@ Through the following screenshots you can see how the Business Object Extension 
 
 ![3rd step](docs/step3.png)
 
-![result step](docs/result)
+![result](docs/result.png)
